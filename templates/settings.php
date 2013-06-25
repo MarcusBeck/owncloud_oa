@@ -1,4 +1,4 @@
-<form id="apptemplate">
+<form id="owncload_oa">
 	<fieldset class="personalblock">
 		<strong>App Template</strong><br />
 		<input type="text" name="somesetting" id="somesetting" value="<?php p($_['url']); ?>" placeholder="<?php p($l->t('Some Setting'));?>" />
